@@ -1,4 +1,4 @@
-package com.Snakegame;
+package com.SnakeGame;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
