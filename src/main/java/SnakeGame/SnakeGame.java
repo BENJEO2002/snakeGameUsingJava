@@ -1,4 +1,4 @@
-package com.Snakegame;
+package com.SnakeGame;
 
 public class SnakeGame {
 
